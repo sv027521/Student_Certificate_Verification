@@ -1,0 +1,101 @@
+Certificate_ID,Student_ID,Course,Institution,Year,Certificate_Type,Issue_Date,Verification_Code,Status
+CERT001,STU001,BSc Data Science,PQR College,2024,Degree,2024-01-24,VFY07919,Valid
+CERT002,STU002,BSc Computer Science,Metro University,2025,Diploma,2024-02-02,VFY15838,Valid
+CERT003,STU003,BSc Information Technology,ABC College,2026,Course,2024-02-11,VFY23757,Valid
+CERT004,STU004,BCom,Sunrise Institute,2024,Internship,2024-02-20,VFY31676,Valid
+CERT005,STU005,BBA,Bright Future College,2025,Workshop,2024-02-29,VFY39595,Valid
+CERT006,STU006,BA,XYZ University,2026,Achievement,2024-03-09,VFY47514,Valid
+CERT007,STU007,BCA,Greenfield College,2024,Degree,2024-03-18,VFY55433,Invalid
+CERT008,STU008,BSc Statistics,City Institute,2025,Diploma,2024-03-27,VFY63352,Valid
+CERT009,STU009,BSc Mathematics,PQR College,2026,Course,2024-04-05,VFY71271,Valid
+CERT010,STU010,BMS,Metro University,2024,Internship,2024-04-14,VFY79190,Valid
+CERT011,STU011,BSc Data Science,ABC College,2025,Workshop,2024-04-23,VFY87109,Valid
+CERT012,STU012,BSc Computer Science,Sunrise Institute,2026,Achievement,2024-05-02,VFY95028,Valid
+CERT013,STU013,BSc Information Technology,Bright Future College,2024,Degree,2024-05-11,VFY02947,Valid
+CERT014,STU014,BCom,XYZ University,2025,Diploma,2024-05-20,VFY10866,Valid
+CERT015,STU015,BBA,Greenfield College,2026,Course,2024-05-29,VFY18785,Invalid
+CERT016,STU016,BA,City Institute,2024,Internship,2024-06-07,VFY26704,Valid
+CERT017,STU017,BCA,PQR College,2025,Workshop,2024-06-16,VFY34623,Valid
+CERT018,STU018,BSc Statistics,Metro University,2026,Achievement,2024-06-25,VFY42542,Valid
+CERT019,STU019,BSc Mathematics,ABC College,2024,Degree,2024-07-04,VFY50461,Valid
+CERT020,STU020,BMS,Sunrise Institute,2025,Diploma,2024-07-13,VFY58380,Valid
+CERT021,STU021,BSc Data Science,Bright Future College,2026,Course,2024-07-22,VFY66299,Valid
+CERT022,STU022,BSc Computer Science,XYZ University,2024,Internship,2024-07-31,VFY74218,Valid
+CERT023,STU023,BSc Information Technology,Greenfield College,2025,Workshop,2024-08-09,VFY82137,Invalid
+CERT024,STU024,BCom,City Institute,2026,Achievement,2024-08-18,VFY90056,Valid
+CERT025,STU025,BBA,PQR College,2024,Degree,2024-08-27,VFY97975,Valid
+CERT026,STU026,BA,Metro University,2025,Diploma,2024-09-05,VFY05894,Valid
+CERT027,STU027,BCA,ABC College,2026,Course,2024-09-14,VFY13813,Valid
+CERT028,STU028,BSc Statistics,Sunrise Institute,2024,Internship,2024-09-23,VFY21732,Valid
+CERT029,STU029,BSc Mathematics,Bright Future College,2025,Workshop,2024-10-02,VFY29651,Valid
+CERT030,STU030,BMS,XYZ University,2026,Achievement,2024-10-11,VFY37570,Valid
+CERT031,STU031,BSc Data Science,Greenfield College,2024,Degree,2024-10-20,VFY45489,Invalid
+CERT032,STU032,BSc Computer Science,City Institute,2025,Diploma,2024-10-29,VFY53408,Valid
+CERT033,STU033,BSc Information Technology,PQR College,2026,Course,2024-11-07,VFY61327,Valid
+CERT034,STU034,BCom,Metro University,2024,Internship,2024-11-16,VFY69246,Valid
+CERT035,STU035,BBA,ABC College,2025,Workshop,2024-11-25,VFY77165,Valid
+CERT036,STU036,BA,Sunrise Institute,2026,Achievement,2024-12-04,VFY85084,Valid
+CERT037,STU037,BCA,Bright Future College,2024,Degree,2024-12-13,VFY93003,Valid
+CERT038,STU038,BSc Statistics,XYZ University,2025,Diploma,2024-12-22,VFY00922,Valid
+CERT039,STU039,BSc Mathematics,Greenfield College,2026,Course,2024-12-31,VFY08841,Valid
+CERT040,STU040,BMS,City Institute,2024,Internship,2025-01-09,VFY16760,Valid
+CERT041,STU041,BSc Data Science,PQR College,2025,Workshop,2025-01-18,VFY24679,Valid
+CERT042,STU042,BSc Computer Science,Metro University,2026,Achievement,2025-01-27,VFY32598,Invalid
+CERT043,STU043,BSc Information Technology,ABC College,2024,Degree,2025-02-05,VFY40517,Valid
+CERT044,STU044,BCom,Sunrise Institute,2025,Diploma,2025-02-14,VFY48436,Valid
+CERT045,STU045,BBA,Bright Future College,2026,Course,2025-02-23,VFY56355,Valid
+CERT046,STU046,BA,XYZ University,2024,Internship,2025-03-04,VFY64274,Valid
+CERT047,STU047,BCA,Greenfield College,2025,Workshop,2025-03-13,VFY72193,Valid
+CERT048,STU048,BSc Statistics,City Institute,2026,Achievement,2025-03-22,VFY80112,Valid
+CERT049,STU049,BSc Mathematics,PQR College,2024,Degree,2025-03-31,VFY88031,Valid
+CERT050,STU050,BMS,Metro University,2025,Diploma,2025-04-09,VFY95950,Invalid
+CERT051,STU051,BSc Data Science,ABC College,2026,Course,2025-04-18,VFY03869,Valid
+CERT052,STU052,BSc Computer Science,Sunrise Institute,2024,Internship,2025-04-27,VFY11788,Valid
+CERT053,STU053,BSc Information Technology,Bright Future College,2025,Workshop,2025-05-06,VFY19707,Valid
+CERT054,STU054,BCom,XYZ University,2026,Achievement,2025-05-15,VFY27626,Valid
+CERT055,STU055,BBA,Greenfield College,2024,Degree,2025-05-24,VFY35545,Valid
+CERT056,STU056,BA,City Institute,2025,Diploma,2025-06-02,VFY43464,Valid
+CERT057,STU057,BCA,PQR College,2026,Course,2025-06-11,VFY51383,Valid
+CERT058,STU058,BSc Statistics,Metro University,2024,Internship,2025-06-20,VFY59302,Valid
+CERT059,STU059,BSc Mathematics,ABC College,2025,Workshop,2025-06-29,VFY67221,Valid
+CERT060,STU060,BMS,Sunrise Institute,2026,Achievement,2025-07-08,VFY75140,Valid
+CERT061,STU061,BSc Data Science,Bright Future College,2024,Degree,2025-07-17,VFY83059,Invalid
+CERT062,STU062,BSc Computer Science,XYZ University,2025,Diploma,2025-07-26,VFY90978,Valid
+CERT063,STU063,BSc Information Technology,Greenfield College,2026,Course,2025-08-04,VFY98897,Valid
+CERT064,STU064,BCom,City Institute,2024,Internship,2025-08-13,VFY06816,Valid
+CERT065,STU065,BBA,PQR College,2025,Workshop,2025-08-22,VFY14735,Valid
+CERT066,STU066,BA,Metro University,2026,Achievement,2025-08-31,VFY22654,Valid
+CERT067,STU067,BCA,ABC College,2024,Degree,2025-09-09,VFY30573,Valid
+CERT068,STU068,BSc Statistics,Sunrise Institute,2025,Diploma,2025-09-18,VFY38492,Valid
+CERT069,STU069,BSc Mathematics,Bright Future College,2026,Course,2025-09-27,VFY46411,Valid
+CERT070,STU070,BMS,XYZ University,2024,Internship,2025-10-06,VFY54330,Valid
+CERT071,STU071,BSc Data Science,Greenfield College,2025,Workshop,2025-10-15,VFY62249,Valid
+CERT072,STU072,BSc Computer Science,City Institute,2026,Achievement,2025-10-24,VFY70168,Valid
+CERT073,STU073,BSc Information Technology,PQR College,2024,Degree,2025-11-02,VFY78087,Invalid
+CERT074,STU074,BCom,Metro University,2025,Diploma,2025-11-11,VFY86006,Valid
+CERT075,STU075,BBA,ABC College,2026,Course,2025-11-20,VFY93925,Valid
+CERT076,STU076,BA,Sunrise Institute,2024,Internship,2025-11-29,VFY01844,Valid
+CERT077,STU077,BCA,Bright Future College,2025,Workshop,2025-12-08,VFY09763,Valid
+CERT078,STU078,BSc Statistics,XYZ University,2026,Achievement,2025-12-17,VFY17682,Valid
+CERT079,STU079,BSc Mathematics,Greenfield College,2024,Degree,2025-12-26,VFY25601,Valid
+CERT080,STU080,BMS,City Institute,2025,Diploma,2026-01-04,VFY33520,Valid
+CERT081,STU081,BSc Data Science,PQR College,2026,Course,2026-01-13,VFY41439,Valid
+CERT082,STU082,BSc Computer Science,Metro University,2024,Internship,2026-01-22,VFY49358,Valid
+CERT083,STU083,BSc Information Technology,ABC College,2025,Workshop,2026-01-31,VFY57277,Valid
+CERT084,STU084,BCom,Sunrise Institute,2026,Achievement,2026-02-09,VFY65196,Invalid
+CERT085,STU085,BBA,Bright Future College,2024,Degree,2026-02-18,VFY73115,Valid
+CERT086,STU086,BA,XYZ University,2025,Diploma,2026-02-27,VFY81034,Valid
+CERT087,STU087,BCA,Greenfield College,2026,Course,2026-03-08,VFY88953,Valid
+CERT088,STU088,BSc Statistics,City Institute,2024,Internship,2026-03-17,VFY96872,Valid
+CERT089,STU089,BSc Mathematics,PQR College,2025,Workshop,2026-03-26,VFY04791,Valid
+CERT090,STU090,BMS,Metro University,2026,Achievement,2026-04-04,VFY12710,Valid
+CERT091,STU091,BSc Data Science,ABC College,2024,Degree,2026-04-13,VFY20629,Valid
+CERT092,STU092,BSc Computer Science,Sunrise Institute,2025,Diploma,2026-04-22,VFY28548,Valid
+CERT093,STU093,BSc Information Technology,Bright Future College,2026,Course,2026-05-01,VFY36467,Valid
+CERT094,STU094,BCom,XYZ University,2024,Internship,2026-05-10,VFY44386,Valid
+CERT095,STU095,BBA,Greenfield College,2025,Workshop,2026-05-19,VFY52305,Valid
+CERT096,STU096,BA,City Institute,2026,Achievement,2026-05-28,VFY60224,Invalid
+CERT097,STU097,BCA,PQR College,2024,Degree,2026-06-06,VFY68143,Valid
+CERT098,STU098,BSc Statistics,Metro University,2025,Diploma,2026-06-15,VFY76062,Valid
+CERT099,STU099,BSc Mathematics,ABC College,2026,Course,2026-06-24,VFY83981,Valid
+CERT100,STU100,BMS,Sunrise Institute,2024,Internship,2026-07-03,VFY91900,Valid
